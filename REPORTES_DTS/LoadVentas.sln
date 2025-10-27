@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "CRM_ETL", "CRM_ETL\CRM_ETL.dtproj", "{270ED7B6-D803-2332-062E-020A04567279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{270ED7B6-D803-2332-062E-020A04567279}.Development|Default.ActiveCfg = Development
+		{270ED7B6-D803-2332-062E-020A04567279}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D36E96-A8AA-439D-84B5-F7BD3743FC89}
+	EndGlobalSection
+EndGlobal
