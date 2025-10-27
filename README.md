@@ -49,6 +49,8 @@ Hay diferentes carpetas las cuales almacenas las diferentes partes necesarias pa
    
   Luego correr la API, la cual sera visible en el siguiente enlace "https://localhost:7119/swagger/index.html"
 
+6. explicacion del archivo "DASHBOARD"
+   Esta parte es el bonus, la cual es un dashboard donde se compara las "visitas y las ventas"
 
 
      
